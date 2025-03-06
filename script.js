@@ -1,14 +1,10 @@
 const messages = [
     "Non ??",
     "Pourquoi tu choisis non ?",
-    "T'es vraiment sérieuse ?",
-    "Marha ...",
-    "En plus tu m'as pas souhaité mon anniversaire",
-    "Réflèchis encore",
     "ENCORE NON ????",
     "T'abuse la",
     "Met oui",
-    "Ok, kitokos alors ❤️"
+
 ];
 
 let messageIndex = 0;

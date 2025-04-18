@@ -1,9 +1,8 @@
 const messages = [
-    "Non ??",
-    "Pourquoi tu choisis non ?",
-    "ENCORE NON ????",
-    "T'abuse la",
-    "Met oui",
+    "68??",
+    "T'es sur?",
+    "????",
+    "WOOOOOO",
 
 ];
 

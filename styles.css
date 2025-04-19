@@ -26,22 +26,22 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #4caf50;
+    background-color: #f44336; /* rouge = normalement faux */
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
-  
-  .no-button {
+}
+
+.no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #f44336;
+    background-color: #4caf50; /* vert = normalement vrai */
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
+}
   
   .gif_container img {
     max-width: 100%;
